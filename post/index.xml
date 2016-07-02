@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New Hugo Site </title>
-    <link>http://replace-this-with-your-hugo-site.com/post/</link>
+    <link>http://leeu1911.github.io/my-new-hugo-site/post/</link>
     <language>en-us</language>
     <author></author>
     <rights>(C) 2016</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>good to great</title>
-          <link>http://replace-this-with-your-hugo-site.com/post/good-to-great/</link>
+          <link>http://leeu1911.github.io/my-new-hugo-site/post/good-to-great/</link>
           <pubDate>Sat, 02 Jul 2016 09:49:00 ICT</pubDate>
           <author></author>
-          <guid>http://replace-this-with-your-hugo-site.com/post/good-to-great/</guid>
+          <guid>http://leeu1911.github.io/my-new-hugo-site/post/good-to-great/</guid>
           <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
 </description>
         </item>
